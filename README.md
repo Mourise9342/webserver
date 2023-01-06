@@ -53,7 +53,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-![output](./Screenshot_20230106_085912.png)
+![output](Screenshot_20230106_085912.png)
 
 ## RESULT:
 The program is executed succesfully
